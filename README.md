@@ -158,15 +158,15 @@ Let's say we wanted to remove the aforementioned katana and acid zombies from th
 
 # Links to Kenan's other works
 
-My HUGE and AWESOME **BL9** mod
+HUGE and AWESOME **BL9** mod
 
 **1) https://github.com/Kenan2000/BL9**
 
-My personal maintained CDDA modpack for **LATEST** experimental versions
+Personal maintained CDDA modpack for **LATEST** experimental versions
 
 **2) https://github.com/Kenan2000/CDDA-Kenan-Modpack**
 
-Updated and even more awesome Otopack soundpack maintained by me 
+Updated and even more awesome Otopack soundpack maintained by kenan
 
 **3) https://github.com/Kenan2000/Otopack-Mods-Updates**
 
@@ -174,6 +174,6 @@ Bright Nights modpack
 
 **4) https://github.com/Kenan2000/Bright-Nights-Kenan-Mod-Pack**
 
-## Link to my CDDA modding server 
+## Link to kenan's CDDA modding server 
 
 **https://discord.com/invite/xj9E3Sp**
