@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "secronono",
+    "name": "<color_light_red>Secronono: a Secronom focused exclusion mod.</color>",
+    "authors": [ "Jackledead" ],
+    "maintainers": [ "Jackledead" ],
+    "description": "Only spawn secronom enemies, robots, zeds and wildlife. *Removes portals.",
+    "category": "monster_exclude",
+    "dependencies": [ "dda", "secronom", "secronom_lore_expansion" ]
+  }
+]

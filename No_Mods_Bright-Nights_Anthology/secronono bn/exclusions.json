@@ -1,0 +1,8 @@
+[
+  {
+    "type": "MONSTER_WHITELIST",
+    "mode": "EXCLUSIVE",
+    "categories": [ "CLASSIC", "WILDLIFE", "HUMAN", "ZOMBIE", "SECROZED_1", "SECROZED_2", "ROBOT", "SFLESH" ],
+	"species": [ "CLASSIC", "WILDLIFE", "HUMAN", "ZOMBIE", "SECROZED_1", "SECROZED_2", "ROBOT", "SFLESH" ]
+  }
+]

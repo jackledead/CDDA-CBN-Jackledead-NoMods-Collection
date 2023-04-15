@@ -1,0 +1,29 @@
+[
+  {
+    "type": "MONSTER_WHITELIST",
+    "mode": "EXCLUSIVE",
+    "categories": [ "CLASSIC", "WILDLIFE", "HUMAN", "ZOMBIE", "SECROZED_1", "SECROZED_2", "ROBOT", "SFLESH" ],
+	"species": [ "CLASSIC", "WILDLIFE", "HUMAN", "ZOMBIE", "SECROZED_1", "SECROZED_2", "ROBOT", "SFLESH" ]
+  },
+  {
+    "type": "region_overlay",
+    "regions": [ "all" ],
+    "map_extras": {
+      "forest": { "extras": { "mx_portal": 0, "mx_portal_in": 0, "mx_spider": 0 } },
+      "forest_thick": { "extras": { "mx_portal": 0, "mx_portal_in": 0, "mx_shia": 0, "mx_spider": 0, "mx_jabberwock": 0 } },
+      "forest_water": { "extras": { "mx_portal": 0, "mx_portal_in": 0, "mx_spider": 0 } },
+      "field": { "extras": { "mx_portal": 0, "mx_portal_in": 0 } },
+      "road": { "extras": { "mx_portal": 0, "mx_portal_in": 0 } },
+      "build": { "extras": { "mx_house_spider": 0, "mx_house_wasp": 0, "mx_portal": 0, "mx_portal_in": 0 } },
+      "marloss": { "chance": 0, "extras": { "mx_marloss_pilgrimage": 0 } },
+      "subway": { "extras": { "mx_portal": 0, "mx_portal_in": 0 } }
+    }
+  },
+  {
+    "type": "effect_on_condition",
+    "id": "EOC_PORTAL_STORM_WARN_OR_CAUSE_RECURRING",
+    "recurrence": [ "10 days", "11 days" ],
+    "global": true,
+    "effect": [  ]
+  }
+]
