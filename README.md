@@ -1,5 +1,5 @@
 # CDDA-NoMods-Anthology
-Kenan's **separate** No_Mods anthology for **LATEST** versions of Cataclysm - Dark Days Ahead and Bright Nights releases
+Jackledead's Fork of Kenan's **separate** No_Mods anthology for **LATEST** versions of Cataclysm - Dark Days Ahead and Bright Nights releases
 
 **1) IF YOU ARE EXPERIENCING ANY BUGS OR ERRORS - EITHER THE FIXES WILL BE RELEASED SOON-ISH OR THE MOD IS WIP** ;
 
@@ -156,7 +156,7 @@ Let's say we wanted to remove the aforementioned katana and acid zombies from th
 
 **12) https://github.com/dissociativity/PKs_Rebalancing**
 
-# Links to my other works
+# Links to Kenan's other works
 
 My HUGE and AWESOME **BL9** mod
 
