@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "no_portal_storms",
+    "name": "NO PORTAL STORMS",
+    "authors": [ "Jackledead" ],
+    "maintainers": [ "Jackledead" ],
+    "description": "Removes portals storms.",
+    "category": "monster_exclude",
+    "dependencies": [ "dda" ]
+  }
+]
