@@ -7,6 +7,6 @@
     "maintainers": [ "Jackledead" ],
     "description": "Only spawn secronom enemies, robots, zeds and wildlife. *Removes portals.",
     "category": "monster_exclude",
-    "dependencies": [ "dda", "secronom", "secronom_lore_expansion" ]
+    "dependencies": [ "dda", "secronom" ]
   }
 ]
