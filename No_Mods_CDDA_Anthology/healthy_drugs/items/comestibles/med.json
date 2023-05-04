@@ -1,0 +1,242 @@
+[
+  {
+    "id": "aspirin",
+    "copy-from": "aspirin",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "aspirin" },
+    "healthy": 0
+  },
+  {
+    "id": "chaw",
+    "copy-from": "chaw",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "chewing tobacco" },
+    "healthy": 0
+  },
+  {
+    "id": "cig",
+    "copy-from": "cig",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "cigarette" },
+    "healthy": 0
+  },
+  {
+    "id": "cigar",
+    "copy-from": "cigar",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "cigar" },
+    "healthy": 0
+  },
+  {
+    "id": "coke",
+    "copy-from": "coke",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "cocaine" },
+    "healthy": 0
+  },
+  {
+    "id": "cola_meth",
+    "copy-from": "cola_meth",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "methacola" },
+    "healthy": 0
+  },
+  {
+    "id": "crack",
+    "copy-from": "crack",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "crack" },
+    "healthy": 0
+  },
+  {
+    "id": "diazepam",
+    "copy-from": "diazepam",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "prescription sedative" },
+    "healthy": 0
+  },
+  {
+    "id": "hi_q_shatter",
+    "copy-from": "hi_q_shatter",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "cannabis shatter" },
+    "healthy": 0
+  },
+  {
+    "id": "hi_q_wax",
+    "copy-from": "hi_q_wax",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "cannabis wax" },
+    "healthy": 0
+  },
+  {
+    "id": "hi_q_distillate",
+    "copy-from": "hi_q_distillate",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "cannabis distillate" },
+    "healthy": 0
+  },
+  {
+    "id": "ecig",
+    "copy-from": "ecig",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "electronic cigarette" },
+    "healthy": 0
+  },
+  {
+    "id": "handrolled_cig",
+    "copy-from": "handrolled_cig",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "hand-rolled cigarette" },
+    "healthy": 0
+  },
+  {
+    "id": "heroin",
+    "copy-from": "heroin",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "heroin" },
+    "healthy": 0
+  },
+  {
+    "id": "joint",
+    "copy-from": "joint",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "joint" },
+    "healthy": 0
+  },
+  {
+    "id": "meth",
+    "copy-from": "meth",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "low-grade methamphetamine" },
+    "healthy": 0
+  },
+  {
+    "id": "pure_meth",
+    "copy-from": "pure_meth",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "high-grade methamphetamine" },
+    "healthy": 0
+  },
+  {
+    "id": "morphine",
+    "copy-from": "morphine",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "morphine" },
+    "healthy": 0
+  },
+  {
+    "id": "oxycodone",
+    "copy-from": "oxycodone",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "oxycodone" },
+    "healthy": 0
+  },
+  {
+    "id": "poppy_pain",
+    "copy-from": "poppy_pain",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "poppy painkiller" },
+    "healthy": 0
+  },
+  {
+    "id": "poppy_sleep",
+    "copy-from": "poppy_sleep",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "poppy sleep" },
+    "healthy": 0
+  },
+  {
+    "id": "poppysyrup",
+    "copy-from": "poppysyrup",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "poppy cough syrup" },
+    "healthy": 0
+  },
+  {
+    "id": "prophylactic_antivenom",
+    "copy-from": "prophylactic_antivenom",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "injectable prophylactic antivenom" },
+    "healthy": 0
+  },
+  {
+    "id": "tobacco",
+    "copy-from": "tobacco",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "rolling tobacco" },
+    "healthy": 0
+  },
+  {
+    "id": "bonemeal_tablet",
+    "copy-from": "bonemeal_tablet",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "bone meal tablet" },
+    "healthy": 0
+  },
+  {
+    "id": "flavored_bonemeal_tablet",
+    "copy-from": "flavored_bonemeal_tablet",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "flavored bone meal tablet" },
+    "healthy": 0
+  },
+  {
+    "id": "weed",
+    "copy-from": "weed",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "marijuana" },
+    "healthy": 0
+  },
+  {
+    "id": "xanax",
+    "copy-from": "xanax",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "fast-acting sedative" },
+    "healthy": 0
+  },
+  {
+    "id": "weak_antibiotic",
+    "copy-from": "weak_antibiotic",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "narrow-spectrum antibiotics" },
+    "healthy": 0
+  },
+  {
+    "id": "strong_antibiotic",
+    "copy-from": "strong_antibiotic",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "broad-spectrum antibiotics" },
+    "healthy": 0
+  }
+]

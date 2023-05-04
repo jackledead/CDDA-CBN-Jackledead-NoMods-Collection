@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "healthy_drugs",
+    "name": "Healthy Drugs",
+    "authors": [ "Jackledead" ],
+    "maintainers": [ "Jackledead" ],
+    "description": "Makes drugs/meds no longer damage your health. Enjoy your cocaine and aspirin in peace.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]

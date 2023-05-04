@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "healthy_alcohol",
+    "name": "Healthy Alcohol",
+    "authors": [ "Jackledead" ],
+    "maintainers": [ "Jackledead" ],
+    "description": "Makes alcoholic drinks no longer damage your health. Enjoy your whiskey in peace.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]
