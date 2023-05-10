@@ -1,6 +1,8 @@
 # CDDA-NoMods-Anthology
 Jackledead's Fork of Kenan's **separate** No_Mods anthology for **LATEST** versions of Cataclysm - Dark Days Ahead and Bright Nights releases
 
+All mods should work in experimental builds, let me know if something doesnt or isn't covered by an exclusion properly.
+
 **1) IF YOU ARE EXPERIENCING ANY BUGS OR ERRORS - EITHER THE FIXES WILL BE RELEASED SOON-ISH OR THE MOD IS WIP** ;
 
 **2) IF YOU USE CDDA LAUNCHER BY REMYROY - UPDATE THE GAME FIRST VIA LAUNCHER and ONLY AFTER that put the mods IN**
