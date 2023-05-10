@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "no_portal_map_extras",
+    "name": "No Portal Map Extras",
+    "authors": [ "Jackledead" ],
+    "maintainers": [ "Jackledead" ],
+    "description": "Removes portals from spawing as a map extra in map generation.",
+    "category": "monster_exclude",
+    "dependencies": [ "dda" ]
+  }
+]

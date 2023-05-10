@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "classic_worldgen",
+    "name": "Classic Worldgen",
+    "authors": [ "Jackledead" ],
+    "maintainers": [ "Jackledead" ],
+    "description": "Uses the same mapgen exclusions as Classic Zombies. Removes overmap labs, portals, hives, etc..",
+    "category": "monster_exclude",
+    "dependencies": [ "dda" ]
+  }
+]

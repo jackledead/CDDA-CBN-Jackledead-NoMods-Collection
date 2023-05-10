@@ -1,0 +1,16 @@
+[
+  {
+    "type": "region_overlay",
+    "regions": [ "all" ],
+    "map_extras": {
+      "forest": { "extras": { "mx_portal": 0, "mx_portal_in": 0 } },
+      "forest_thick": {
+        "extras": { "mx_portal": 0, "mx_portal_in": 0 }
+      },
+      "forest_water": { "extras": { "mx_portal": 0, "mx_portal_in": 0 } },
+      "field": { "extras": { "mx_portal": 0, "mx_portal_in": 0 } },
+      "road": { "extras": { "mx_portal": 0, "mx_portal_in": 0 } },
+      "subway": { "extras": { "mx_portal": 0, "mx_portal_in": 0 } }
+    }
+  }
+]
