@@ -6,7 +6,7 @@
     "authors": [ "Cyrano7" ],
     "description": "Removes crafted pipe and scrap metal firearms that fire conventional cartridges.",
     "category": "item_exclude",
-    "dependencies": [ "dda" ]
+    "dependencies": [ "bn" ]
   },
   {
     "type": "ITEM_BLACKLIST",

@@ -3,6 +3,7 @@
     "type": "MONSTER_WHITELIST",
     "mode": "EXCLUSIVE",
     "categories": [ "CLASSIC", "WILDLIFE", "DINOSAUR", "ROBOT" ],
+	"species": ["ROBOT", "MUTANT", "DINOSAUR" ],
 	"monsters": [
 		"mon_zpinosaurus_bio_op",
 		"mon_spinosaurus_bio_op",
@@ -200,7 +201,11 @@
 		"mon_wasp_small",
 		"mon_ant_small",
 		"mon_ant_larva",
-		"mon_ant_queen"
+		"mon_ant_queen",
+		"mon_haulerbot",
+		"mon_molebot",
+		"mon_nursebot",
+		"mon_nursebot_defective"
 	]
   }
 ]

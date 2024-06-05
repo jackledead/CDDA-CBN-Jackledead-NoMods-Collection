@@ -5,7 +5,7 @@
     "name": "No Boomer Zombies",
     "description": "Removes all boomer zombies from the game.",
     "category": "monster_exclude",
-    "dependencies": [ "dda" ]
+    "dependencies": [ "bn" ]
   },
   {
     "type": "MONSTER_BLACKLIST",

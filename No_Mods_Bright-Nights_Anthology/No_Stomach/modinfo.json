@@ -6,7 +6,7 @@
     "authors": [ "Fris0uman" ],
     "description": "Add a trait to make hunger and thirst constant.",
     "category": "balance",
-    "dependencies": [ "dda" ]
+    "dependencies": [ "bn" ]
   },
   {
     "type": "mutation",

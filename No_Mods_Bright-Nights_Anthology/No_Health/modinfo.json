@@ -5,7 +5,7 @@
     "name": "Disable Health",
     "authors": [ "Fris0uman" ],
     "description": "Add a trait to make hiden health stat constant.",
-    "dependencies": [ "dda" ]
+    "dependencies": [ "bn" ]
   },
   {
     "type": "mutation",

@@ -5,7 +5,7 @@
     "name": "No Shady Zombies",
     "description": "Removes all shady zombies from the game.",
     "category": "monster_exclude",
-    "dependencies": [ "dda" ]
+    "dependencies": [ "bn" ]
   },
   {
     "type": "MONSTER_BLACKLIST",

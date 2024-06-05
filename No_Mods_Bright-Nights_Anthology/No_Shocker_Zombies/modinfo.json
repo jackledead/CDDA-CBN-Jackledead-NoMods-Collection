@@ -5,7 +5,7 @@
     "name": "No Shocker Zombies",
     "description": "Removes all electric-based zombies from the game.",
     "category": "monster_exclude",
-    "dependencies": [ "dda" ]
+    "dependencies": [ "bn" ]
   },
   {
     "type": "MONSTER_BLACKLIST",
